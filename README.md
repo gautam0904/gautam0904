@@ -11,10 +11,8 @@
 
 ## 📫 How to reach me
 - 📧 Linkedin:[https://linkedin.com/in/gautam-malaviya](https://www.linkedin.com/in/gautam-malaviya/)
-- 🧑‍💻 GitHub: [https://github.com/gautam0904](https://github.com/gautam0904)
 
 ## ⚡ Fun fact
-- I enjoy **automating repetitive tasks**, even my GitHub commits 😉  
 - I love turning complex problems into **simple, scalable solutions**
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect.*
